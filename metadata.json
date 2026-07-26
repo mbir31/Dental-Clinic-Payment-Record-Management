@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clinic Record & Payment",
+  "description": "An offline-first, single-page application for managing dental clinic patient records, treatments, payments, and precision-aligned printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
