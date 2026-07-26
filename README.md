@@ -2,6 +2,25 @@
 
 > An offline-first, privacy-focused Clinical Management and Physical Print Calibration Suite designed specifically for dental practices, oral surgeons, and medical clinics.
 
+[![Download Standalone App](https://img.shields.io/badge/📥_Download_Standalone_App-.html-blue?style=for-the-badge)](https://raw.githubusercontent.com/your-username/dental-clinic-record-system/main/Dental_Clinic_Offline_App.html)
+
+---
+
+## 📥 Direct Download Options
+
+If you want to download the ready-to-use **standalone `.html` app file** directly from this GitHub repository without installing any dev tools:
+
+### Method 1: GitHub Raw Direct Download Link
+Replace `your-username` and `your-repo` with your GitHub repository details:
+```text
+https://raw.githubusercontent.com/your-username/your-repo/main/Dental_Clinic_Offline_App.html
+```
+> **Tip**: Right-click the link above in your browser and select **"Save Link As..."** to download the `Dental_Clinic_Offline_App.html` directly to your local drive or flash drive.
+
+### Method 2: GitHub Releases (Recommended for Users)
+1. Go to the repository's **Releases** tab on GitHub: `https://github.com/your-username/your-repo/releases/latest`
+2. Under **Assets**, click directly on `Dental_Clinic_Offline_App.html` to instantly download the standalone application file.
+
 ---
 
 ## 🌟 Key Capabilities
